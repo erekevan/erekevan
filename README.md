@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ahmed Al Qaffas @erekevan
+- 👀 I’m interested in scripting method-oriented codes to deal with data acquired from biological samples. 
+- - 🌱 I’m currently learning application of bioinformatics in real-life scenarios
+- 💞️  I’m looking to collaborate on pipeline creation & sequencing data manipulation
+- 📫 How to reach me erekevan@gamil.com
